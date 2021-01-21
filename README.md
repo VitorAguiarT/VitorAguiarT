@@ -20,5 +20,5 @@ Here are some ideas to get you started:
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAguiarT&hide=html&layout=compact&show_icons=true&theme=blue-green" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=VitorAguiarT&show_icons=true&theme=blue-green" /></td>
   </tr>   
-</table>
+</table> 
 </center>
